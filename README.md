@@ -10,7 +10,7 @@
 
 I enjoy coding and I'm always trying to learn new technologies and level up my skills.
 
--   🌍  I'm based in Chattanooga, Tennesse, USA
+-   🌍  I'm based in south Florida, USA
 -   ✉️  You can contact me at [adriancubcru@gmail.com](mailto:adriancubcru@gmail.com)
 -   🧠  I'm learning to use AI tools to imporve my productivity.
 -   ⚡  In my spare time I coach/play volleyball and rock climb.
